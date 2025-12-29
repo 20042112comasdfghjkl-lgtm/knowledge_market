@@ -59,4 +59,4 @@
 - `user_id` – من قام بالتصويت  
 - `question_id` – السؤال المصوّت عليه  
 - `vote_type` – نوع التصويت (up/down)  
- 
+ 👤 Developed by: Mohamed Mahmoud Mohamed Ali
